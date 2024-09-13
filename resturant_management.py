@@ -3,7 +3,7 @@ from tkinter import *
 import time
 import random
 from datetime import date
-#price1,price2,price3,price4,price5,price6,price7,price8,
+
 def price():
         roo = Tk()
         roo.geometry("600x280+0+0")
